@@ -44,4 +44,7 @@ Dashboard ini dibuat untuk memberikan insight yang cepat dan mudah dipahami meng
 - **Microsoft Excel**  
 - Pivot Table  
 - Slicers & Chart  
-- Conditional Formatting  
+- Conditional Formatting
+
+## 📚 Kredit dan Referensi
+Dashboard ini dibuat ulang dengan berdasarkan video pada channel https://www.youtube.com/@datatutorials1
